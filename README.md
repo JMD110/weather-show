@@ -10,4 +10,4 @@ command: "curl -s wttr.in/Chengdu?format=3"
 ```
 # demo show
 ### right&top
-![demo image](images/demo.png)
+![demo image](images/screenshot.png)
